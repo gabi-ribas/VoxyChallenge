@@ -26,6 +26,7 @@ Make sure to pick your Operational System and download the “Community” versi
   
 
 ## Step 3. Clone the SeleniumProject folder in a repository of your choice
+You may either git clone the Selenium Project or simply download it from this repository 
 
   
 

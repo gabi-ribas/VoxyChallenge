@@ -26,7 +26,11 @@ Make sure to pick your Operational System and download the “Community” versi
   
 
 ## Step 3. Clone the SeleniumProject folder in a repository of your choice
-You may either git clone the Selenium Project or simply download it from this repository 
+
+-   You may either git clone the repository with the following command:
+	- `git clone https://github.com/gabi-ribas/VoxyChallenge.git`
+-   Or simply download this repository as zip file by going to it's root (here https://github.com/gabi-ribas/VoxyChallenge.git) and clicking on "code" and then "download ZIP"
+
 
   
 
